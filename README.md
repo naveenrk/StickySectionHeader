@@ -2,12 +2,21 @@
 
 Just using following CSS.
 
+STEP 1 -
+
 .container {
-position: relative; /_ Step 1 _/
+
+    position: relative;
+
 }
+
+STEP 2 -
 
 .container dt {
-position: sticky; /_ Step 2 _/
+
+    position: sticky;
+
 }
 
-We can create sticky section header
+
+We can create Sticky Section Header
